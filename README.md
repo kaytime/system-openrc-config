@@ -1,6 +1,6 @@
-# OpenRC Configuration
+# OpenRC Configuration [![PackageCloud.](https://github.com/kaytime/system-openrc-config/actions/workflows/build.yml/badge.svg)](https://github.com/kaytime/system-openrc-config/actions/workflows/build.yml)
 
-OpenRC configuration used in Nitrux.
+OpenRC configuration used in Kaytime.
 
 # Issues
 
