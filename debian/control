@@ -1,0 +1,17 @@
+Source: system-openrc-config
+Section: misc
+Priority: required
+Maintainer: Stephane Tsana <stephanetse@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: https://kaytime.github.io
+
+
+Package: openrc-config
+Architecture: all
+Depends: openrc, sysvinit-utils
+Conflicts: systemd, systemd-sysv
+Description: Package to add runlevel configuration for OpenRC.
+ This package will add the boot scripts to the runlevel
+ directories used by OpenRC to boot the system.
+
