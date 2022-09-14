@@ -1,4 +1,4 @@
-system-openrc-config (0.1.0)  kaytime; urgency=high
+system-openrc-config (0.1.0+alpha)  kaytime; urgency=high
 
   * Create package
 
