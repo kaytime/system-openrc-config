@@ -7,7 +7,7 @@ Standards-Version: 3.9.6
 Homepage: https://kaytime.github.io
 
 
-Package: openrc-config
+Package: system-openrc-config
 Architecture: all
 Depends: openrc, sysvinit-utils
 Conflicts: systemd, systemd-sysv
